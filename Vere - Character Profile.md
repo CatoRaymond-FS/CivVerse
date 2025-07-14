@@ -49,7 +49,7 @@ Seems to have knowledge about people she has never officially met
 
 💬 Known Interactions
 
-e him a cryptic message about “falling in his sleep” shortly after he was expelled
+[[e him a cryptic message about “falling in his sleep” shortly after he was expelled
 
 Shared a strange moment in [[Lumenscape]] involving a vision of “a girl drawing flowers in the dark” (see: , though Luna does not understand the reference
 
