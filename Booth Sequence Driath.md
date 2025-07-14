@@ -117,7 +117,7 @@ Journal System Introduction (optional logs, notes, lore fragments)
 
  [[Lyra - Character Profile]]: Stoic, mechanical guide. First impression of the lower world.
 
-[[JeBrief appearance. Sets up emotional narrative hook.
+[[Jess - Character Profile]]: Brief appearance. Sets up emotional narrative hook.
 
 [[Hammerhead Engineering and Manufacturing]]: Corporate authority and omnipresent force.
 
