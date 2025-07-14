@@ -7,5 +7,6 @@
 [[Luna - Character Profile]]
 [[Sil Rennet - Character Profile]]
 [[Rhea - Character Profile]]
+[[Vere - Character Profile]]
 
 
