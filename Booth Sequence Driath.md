@@ -115,9 +115,9 @@ Journal System Introduction (optional logs, notes, lore fragments)
 
 🎭 Key Characters & Nodes
 
- Stoic, mechanical guide. First impression of the lower world.
+ [[Lyra - Character Profile]]: Stoic, mechanical guide. First impression of the lower world.
 
-[[Jess – Character Profile]]: Brief appearance. Sets up emotional narrative hook.
+[[JeBrief appearance. Sets up emotional narrative hook.
 
 [[Hammerhead Engineering and Manufacturing]]: Corporate authority and omnipresent force.
 
