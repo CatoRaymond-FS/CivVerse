@@ -49,9 +49,9 @@ Seems to have knowledge about people she has never officially met
 
 💬 Known Interactions
 
-[[ve him a cryptic message about “falling in his sleep” shortly after he was expelled
+e him a cryptic message about “falling in his sleep” shortly after he was expelled
 
-[[Luna – Character Profile]]: Shared a strange moment in [[Lumenscape]] involving a vision of “a girl drawing flowers in the dark” (see: [[Jess – Character Profile|Jess]]), though Luna does not understand the reference
+Shared a strange moment in [[Lumenscape]] involving a vision of “a girl drawing flowers in the dark” (see: , though Luna does not understand the reference
 
 Avoids high-profile Caelan scholars, but seems to know how to access restricted zones — particularly in [[Vault Primaris]]
 
@@ -79,7 +79,7 @@ Children say she “walks without gravity” and “speaks to light”
 
 Vere may be a soft thread tying the stories of [[Unira]] and [[Caelus]] together
 
-Her knowledge of distant people, especially [[Jess – Character Profile|Jess]], suggests access to long-range perception or prophecy
+Her knowledge of distant people, especially Jess suggests access to long-range perception or prophecy
 
 Could serve as a mysterious guide, warning, or wildcard as the CivVerse begins to unravel deeper layers of reality
 
