@@ -86,5 +86,7 @@ Jace (from [[Caelus]]) — Expelled pilot turned freelance calibrator.
 
 Jess "Tinka" — A young tinkerer with more talent than protection.
 
-# Learn more about the frames here. 
-## 
+# Learn more about the frames here:
+## https://catoraymond-fs.github.io/CIVFRAME/ 
+
+
