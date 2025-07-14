@@ -11,7 +11,7 @@ Alias: HEM
 Founded: Several generations ago during early urban expansion on [[Unira]]
 Headquarters: Unknown – operates through distributed sectors and city-level divisions
 Primary Function: Manufacture, deployment, and maintenance of [[CivFrame]] units and infrastructure for mining, transport, and construction
-Presence: Dominant in cities like [[Driath and Driath’s End|Driath]], especially areas such as the [[The Surface Gate]], 
+Presence: Dominant in cities like [[Driath and Driath’s End|Driath]], especially areas such as the [[The Surface Gate]], [[Driath and Driath's End]]etc. 
 
 
 ---
@@ -22,7 +22,7 @@ HEM serves as both a civilian employer and a pseudo-governmental power within mu
 
 Their products include:
 
-[[CivFrame Models]] (exosuits used for labor, repair, logistics)
+CivFrame Models - exosuits used for labor, repair, logistics
 
 Mass mining systems
 
@@ -40,7 +40,7 @@ Surveillance architecture embedded in infrastructure
 
 Executive Board (Location Unknown): Makes planetary directives. Never seen publicly.
 
-Regional Directors: Corporate elite assigned to oversee cities like [[Driath]]; rarely appear in person.
+Regional Directors: Corporate elite assigned to oversee cities like [[Driath and Driath's End|Driath]]rarely appear in person.
 
 Local Admin Cells: Corrupt and profit-driven; they manage districts like the [[Surface Gate]] and the [[Freight Spine]].
 
