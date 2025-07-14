@@ -49,7 +49,7 @@ Seems to have knowledge about people she has never officially met
 
 💬 Known Interactions
 
-[[Jace – Character Prve him a cryptic message about “falling in his sleep” shortly after he was expelled
+[[ve him a cryptic message about “falling in his sleep” shortly after he was expelled
 
 [[Luna – Character Profile]]: Shared a strange moment in [[Lumenscape]] involving a vision of “a girl drawing flowers in the dark” (see: [[Jess – Character Profile|Jess]]), though Luna does not understand the reference
 
