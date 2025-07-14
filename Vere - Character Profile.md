@@ -51,7 +51,7 @@ Seems to have knowledge about people she has never officially met
 
 [[Jace - Character Profile|Jace]]: Gave him a cryptic message about “falling in his sleep” shortly after he was expelled
 
-[[Luna - Character Profile|Luna]] :Shared a strange moment in [[Lumenscape]] involving a vision of “a girl drawing flowers in the dark” (see:[[]] , though Luna does not understand the reference
+[[Luna - Character Profile|Luna]] :Shared a strange moment in [[Lumenscape]] involving a vision of “a girl drawing flowers in the dark” (see:[[Jess - Character Profile]] , though Luna does not understand the reference
 
 Avoids high-profile Caelan scholars, but seems to know how to access restricted zones — particularly in [[Vault Primaris]]
 
