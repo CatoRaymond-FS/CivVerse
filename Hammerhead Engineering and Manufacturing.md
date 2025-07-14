@@ -42,9 +42,9 @@ Executive Board (Location Unknown): Makes planetary directives. Never seen publi
 
 Regional Directors: Corporate elite assigned to oversee cities like [[Driath and Driath's End|Driath]]rarely appear in person.
 
-Local Admin Cells: Corrupt and profit-driven; they manage districts like the [[Surface Gate]] and the [[Freight Spine]].
+Local Admin Cells: Corrupt and profit-driven; they manage districts like the [[The Surface Gate]] and [[The Freight Spine]]. 
 
-Onsite Supervisors: Harsh, pragmatic. Interface directly with workers like [[Lyra – Character Profile]].
+Onsite Supervisors: Harsh, pragmatic. Interface directly with workers like [[Lyra - Character Profile]]. 
 
 Technician Classes: The labor force—mechanics, welders, calibrators, and engineers. Treated as expendable.
 
@@ -102,7 +102,4 @@ Being whispered about in rumors connected to deep-frame signal anomalies and bla
 
 ---
 
-🔖 Tags
-
-#CivVerse #Unira #Faction #HEM #Technology #Driath
 
