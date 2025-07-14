@@ -115,7 +115,7 @@ Journal System Introduction (optional logs, notes, lore fragments)
 
 🎭 Key Characters & Nodes
 
-[[Lyra – Character Profile]]: Stoic, mechanical guide. First impression of the lower world.
+ Stoic, mechanical guide. First impression of the lower world.
 
 [[Jess – Character Profile]]: Brief appearance. Sets up emotional narrative hook.
 
