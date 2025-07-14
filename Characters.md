@@ -8,5 +8,6 @@
 [[Sil Rennet - Character Profile]]
 [[Rhea - Character Profile]]
 [[Vere - Character Profile]]
+[[R.C. Faye - Character Profile]]
 
 
