@@ -6,7 +6,7 @@ Game Type: Turn-Based Strategy RPG
 Location: [[Driath and Driath's End|Driath]] – Surface Gate → Lower Freight Spine
 Purpose: Introduce the world, allow character creation, and hint at deeper systems
 Playable Characters: Player-Created Operator
-Narrative Connections: [[Lyra – Character Profile]], [[Jess – Character Profile]], [[Hammerhead Engineering and Manufacturing]]
+Narrative Connections:  [[Hammerhead Engineering and Manufacturing]]
 
 
 ---
@@ -49,7 +49,7 @@ Dialogue personality indicators
 Simple visual appearance prompt
 
 
-3. Exploration Phase – Arrival at [[Surface Gate]] Terminal:
+3. Exploration Phase – Arrival at [[The Surface Gate]] Terminal:
 
 Dialogue with Hammerhead intake officer
 
