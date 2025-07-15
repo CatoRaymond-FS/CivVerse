@@ -6,7 +6,7 @@ An overview of the current known state of the CivVerse, including power structur
 
 🌌 Overview
 
-The CivVerse is a fractured but deeply interconnected system of planets, cultures, and ideologies. Worlds vary greatly in class divide, technology, and political alignment. While some, like [[Caelus - World Document|Caelus]], uphold ideals of order, others like [[Unira - World Document|Unira]] struggle beneath the weight of exploitation.
+The CivVerse is a fractured but deeply interconnected system of planets, cultures, and ideologies. Worlds vary greatly in class divide, technology, and political alignment. While some, like [[Caelus]], uphold ideals of order, others like [[Unira - World Document|Unira]] struggle beneath the weight of exploitation.
 
 Much of the galaxy’s development stems from the use and misuse of [[CivFrame Theory]], and its practical application through the Frames that bear its name.
 
