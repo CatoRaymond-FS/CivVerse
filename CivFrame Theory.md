@@ -56,7 +56,7 @@ Unira: CivFrames are lifelines. Essential for work, but distributed based on uti
 
 Caelus: CivFrames are viewed as primitive tech by some, but new lightweight models have academic and experimental applications.
 
-Ferrun: CivFrames define daily survival — sandproofed, insulated, self-repaired. Crafters in form tight-knit traditions.
+Ferrun: CivFrames define daily survival — sandproofed, insulated, self-repaired. Crafters in [[The Frame Bonepile]] form tight-knit traditions.
 
 
 
