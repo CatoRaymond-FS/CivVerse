@@ -6,9 +6,9 @@ An overview of the current known state of the CivVerse, including power structur
 
 🌌 Overview
 
-The CivVerse is a fractured but deeply interconnected system of planets, cultures, and ideologies. Worlds vary greatly in class divide, technology, and political alignment. While some, like [[Caelus]], uphold ideals of order, others like [[Unira - World Document|Unira]] struggle beneath the weight of exploitation.
+The CivVerse is a fractured but deeply interconnected system of planets, cultures, and ideologies. Worlds vary greatly in class divide, technology, and political alignment. While some, like [[Caelus]], uphold ideals of order, others like [[Unira]] beneath the weight of exploitation.
 
-Much of the galaxy’s development stems from the use and misuse of [[CivFrame Theory]], and its practical application through the Frames that bear its name.
+Much of the galaxy’s development stems from the use and misuse of [[CivFrame Theory]] and its practical application through the Frames that bear its name.
 
 
 ---
@@ -21,7 +21,7 @@ Much of the galaxy’s development stems from the use and misuse of [[CivFrame T
 
 ~200 Years Ago – Rise of industrialization on Unira; resource extraction begins.
 
-~150 Years Ago – CivFrame Theory developed in [[The Radiant Assembly]].
+~150 Years Ago – CivFrame Theory first developed in [[The Radiant Assembly]].
 
 ~100 Years Ago – Hammerhead Engineering rises to prominence on Unira.
 
