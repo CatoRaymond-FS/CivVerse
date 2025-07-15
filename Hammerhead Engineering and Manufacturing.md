@@ -10,8 +10,8 @@ Name: Hammerhead Engineering and Manufacturing
 Alias: HEM
 Founded: Several generations ago during early urban expansion on [[Unira]]
 Headquarters: Unknown – operates through distributed sectors and city-level divisions
-Primary Function: Manufacture, deployment, and maintenance of units and infrastructure for mining, transport, and construction
-Presence: Dominant in cities like [[Driath and Driath’s End|Driath]], especially areas such as the [[The Surface Gate]], [[Driath and Driath's End]]etc. 
+Primary Function: Manufacture, deployment, and maintenance of CivFrame units and infrastructure for mining, transport, and construction
+Presence: Dominant especially in areas such as the [[The Surface Gate]], [[Driath and Driath's End]] etc. 
 
 
 ---
