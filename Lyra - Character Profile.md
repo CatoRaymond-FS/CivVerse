@@ -72,7 +72,7 @@ Keeps her room an organized mess—tools and schematics carefully arranged, ever
   
 Avoids social interaction unless necessary  
   
-Teaches a 13-year-old girl about tinkering quietly, in secret  
+Teaches a 12-year-old girl about tinkering quietly, in secret  
   
 [[Jess - Character Profile|Jess|]] is her only real connection to another person  
   
@@ -116,7 +116,7 @@ The idea of hope is painful—so she avoids it
   
 🔥 Emotional Anchor  
   
-A young 13-year-old girl who wants to learn to fix machines  
+A young 12-year-old girl who wants to learn to fix machines  
   
 She sees herself in the girl—but can't admit it  
   

@@ -103,7 +103,7 @@ Personal Ships: Rare and expensive, often privately owned
 
 Ports & Policy
 
-[[Erza Venn - Character Profile|Erza Venn]] and others rely on independent ports like the [[The Surface Gate]]
+[[Erza Venn - Character Profile|Erza Venn]] and others rely on independent ports. 
 
 Hammerhead-controlled ports dominate Unira
 
