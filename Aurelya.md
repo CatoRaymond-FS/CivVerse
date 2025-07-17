@@ -28,7 +28,7 @@ Planetary Traits
 
 [[Crownwood Forests]]: Ancient, high-canopied trees with bark like obsidian and leaves like spun gold. Some are semi-sentient. It's said the oldest ones can dream.
 
-🌄 The Horizon Spires: Jagged golden rock formations that jut from the planet’s crust like broken crowns. Pilgrims believe they mark where ancient celestial beings once knelt.
+[[The Horizon Spires]]: Jagged golden rock formations that jut from the planet’s crust like broken crowns. Pilgrims believe they mark where ancient celestial beings once knelt.
 
 🌌 Skybloom Seasons: Once a year, an aurora of living spores rises from the ground and dances through the sky — a planetary exhale. This is the holiest time of year.
 
@@ -61,6 +61,19 @@ The Lysari – Flower-walkers who live in harmony with pollen fields. Known for 
 The Ca’Ren – Nomadic riders of six-legged beasts called veltrons. Use no metal, only bone, wood, and sunlight-refined clay.
 
 The Vereday – Seers and shamans who live atop the Horizon Spires. They claim to hear the dreams of the planet.
+
+[[Lioranthros Solen - Character Profile| Lioranthros Solen]] — The Living Crown
+
+Born beneath a canopy of golden leaves and wind-song, Lioranthros Solan, known simply as Lior, is a child of Aurelya in every way. The planet seems to know him, to respond to him — the grass bows beneath his feet, the trees hush when he sleeps, and the storms break gently around his laughter.
+
+He was born during a Skybloom season, when golden spores filled the air and strange, distant voices whispered across worlds. On that night, moments of wonder and mystery unfolded for those who would one day become his guardians, mentors, and friends — each touched by a golden flicker they could not explain.
+
+Though still young, Lior is already a symbol among his people. Not because he rules, but because he radiates the joy, resilience, and harmony Aurelya itself embodies. He is scarred from playing rough, never without a smile, and his long, dreaded hair dances in the breeze as he races with wild elk or naps beneath whispering branches.
+
+He is not a prince. He is not a prophet.
+He is something older, something lighter —
+the child the land chose, and who chooses joy in return.
+
 
 
 👦 Lior’s People
