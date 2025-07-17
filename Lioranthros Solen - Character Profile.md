@@ -1,9 +1,7 @@
 #characters 
 
-Lioranthros Solan
-
-Title(s): The Living Crown, The Bloomwalker, Crowned of No Throne
-Age: 8 (at start of the story)
+Title(s): The Living Crown, The Bloomwalker, Crowned of No Throne, The One True King
+Age: 8
 Homeworld: Aurelya
 Race: Aurelyan Human
 Gender: Male
@@ -58,7 +56,75 @@ Golden Moments
 
 The day Lior was born, four people across the CivVerse experienced impossible signs — moments of golden light, brief visions, and gentle voices. These moments stitched Lior into their lives long before they would meet him.
 
-[Golden Moments are detailed fully above and included in his profile as a mystic echo.]
+I. Lyra & Jess – “Gold”
+Unira, the Edge Districts — Year 0 of the Aurelyan Dawn
+
+Lyra was barely keeping things together. Jess, only four, had grown quieter since the loss of her parents, and Lyra — just nineteen — was doing her best not to fall apart while trying to raise her. That night, distracted by exhaustion, Lyra didn’t notice Jess had wandered outside. She found her standing perfectly still, staring up at the thick smog-choked sky.
+
+When Lyra asked what she was looking at, Jess simply pointed upward and said one word:
+
+“Gold.”
+
+There was nothing there. No stars, no flickers — just darkness. But Lyra looked anyway. And for a brief moment, she felt... watched. Not by something cruel, but something gentle. She held Jess's hand and took her back inside. Neither of them spoke of it again.
+
+
+---
+
+II. Rhea & Sil Rennet – “Shh”
+Unira, Ferrun — Among the Bonepiles
+
+Rhea, eleven years old and untamable, was halfway up a spire of discarded scrap — a tower of rusted bones in the Ferrun wastelands. Sil Rennet, older and weathered, shouted for her to come down, but she laughed and kept climbing.
+
+Then, she slipped.
+
+It should’ve ended in blood. A fall like that, onto serrated metal — there would’ve been nothing he could do.
+
+But when Sil rounded the pile, she was standing on the ground. No injuries. No panic. Just a confused look on her face, like she didn’t know how she got there.
+
+Later, Rhea would remember: a figure in golden light had caught her. A teenage boy with long, wild hair and eyes full of sunlight. He placed her gently on the ground and said only:
+
+“Shh.”
+
+Then he was gone.
+
+
+---
+
+III. Luna a – “He’ll Be Okay”
+Caelus, Novva Cruiser Orbiting the Upper Rings
+
+Luna was sixteen, dining with her parents in the quiet upper-deck commons. Her father made a joke about her future at the Novva Academy, and her mother’s laughter echoed warmly.
+
+But Luna wasn’t listening.
+
+She had turned toward the port window — a reflex, a pull — and saw it: a flicker of gold, faint and distant, floating in the vacuum. And in that moment, she heard a voice — not loud, but certain. Comforting.
+
+“He’ll be okay.”
+
+She turned back to her parents. They hadn’t noticed anything. Her fork trembled in her hand.
+
+She didn’t know who he was. But the words stayed with her.
+
+
+---
+
+IV. Dr. R.C. Faye and Vere – “He is here.”
+Caelus, Solan Institute — One of a Thousand Quiet Nights
+
+Dr. Faye sat alone in his study, surrounded by data, diagrams, and questions too big for answers. A single lamp burned low beside him, and the air felt heavier than usual.
+
+Without warning, the door opened.
+Vere — timeless, unreadable — stepped in and stood silently for a moment.
+
+Then they said:
+
+“You didn’t notice it, did you? The boy you wrote about. He is here.”
+
+R.C. said nothing. He didn’t need to.
+
+He simply smiled.
+
+He didn’t feel chosen. He had never felt touched by fate. But in that moment, he felt a strange peace — as if the universe no longer needed his certainty. As if it had already begun without him.
 
 
 ---
