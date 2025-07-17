@@ -90,7 +90,7 @@ Then he was gone.
 
 ---
 
-III. Luna a – “He’ll Be Okay”
+III. Luna – “He’ll Be Okay”
 Caelus, Novva Cruiser Orbiting the Upper Rings
 
 Luna was sixteen, dining with her parents in the quiet upper-deck commons. Her father made a joke about her future at the Novva Academy, and her mother’s laughter echoed warmly.
