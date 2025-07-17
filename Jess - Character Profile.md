@@ -12,7 +12,7 @@ Status: Civilian child labor tier (unofficial helper/mechanic-in-training)
 
 🏚️ Background  
 • Residence: Lives in a crowded family unit with three cousins and an aunt  
-• Parents: Deceased—died in a mine collapse six years ago; [[Lyra - Character Profile|Lyra]] was present, trying to stabilize the beams  
+• Parents: Deceased—died in a mine collapse nine years ago; [[Lyra - Character Profile|Lyra]] was present, trying to stabilize the beams  
 • Supervision: Largely unsupervised, free to roam and salvage tech
 
 ⚙️ Physical Description  
