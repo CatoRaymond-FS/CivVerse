@@ -9,5 +9,7 @@
 [[Rhea - Character Profile]]
 [[Vere - Character Profile]]
 [[R.C. Faye - Character Profile]]
+[[Lioranthros Solen - Character Profile]]
+
 
 
