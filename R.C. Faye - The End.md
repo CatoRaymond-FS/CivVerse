@@ -18,7 +18,7 @@ He leaned back against the metal wall and tilted his head to the ceiling, his ey
 
 “…Golden, isn’t it?” he whispered.
 
-And for a moment, in his mind, he saw the sun bleeding through a field of wheat. A crown of leaves. Amber eyes. [[Lioranthros Solen - Character Profile|A Boy]], smiling.
+And for a moment, in his mind, he saw the sun bleeding through a field of wheat. A crown of leaves. Amber-gold eyes with flecks of green, blue, and purple. [[Lioranthros Solen - Character Profile|A Boy]], smiling.
 
 
 ☀️ The What If: The Crown Walks Beside Him
