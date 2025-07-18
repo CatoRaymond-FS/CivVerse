@@ -76,3 +76,5 @@ They both suffer, both endure, both refuse to break — and both are slowly thaw
 Though they’ve never met, dreams and patterns ripple between them.
 
 Perhaps their fates are entangled, across worlds.
+
+A version of his ending can be found at, [[R.C. Faye - The End]]
