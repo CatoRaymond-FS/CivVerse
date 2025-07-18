@@ -23,7 +23,7 @@ And for a moment, in his mind, he saw the sun bleeding through a field of wheat.
 
 ☀️ The What If: The Crown Walks Beside Him
 
-R.C. Faye stood barefoot in the amber grass, the sunlight so thick it tasted like honey on the air. Aurelya breathed softly around him—flowers turning in slow rhythm, the trees alive with quiet song.
+Faye stood barefoot in the amber grass, the sunlight so thick it tasted like honey on the air. Aurelya breathed softly around him—flowers turning in slow rhythm, the trees alive with quiet song.
 
 And there he was.
 
