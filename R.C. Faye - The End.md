@@ -12,7 +12,7 @@ Not a dry laugh, not hollow. Something full. Light. Like someone remembering som
 
 But R.C. did.
 
-He had bought Vere enough time. They were free—he felt it in his chest like the sun rising behind his ribs. The plan had worked. It had to. Somewhere, light was filtering through treetop canopies again. Somewhere, they were holding hands in a new dawn. Somewhere, Aurelya was safe.
+He had bought Vere enough time. They were free—he felt it in his chest like the sun rising behind his ribs. The plan had worked. It had to. Somewhere, light was filtering through treetop canopies again. Somewhere, they were holding hands in a new dawn. Somewhere, Vere was safe.
 
 He leaned back against the metal wall and tilted his head to the ceiling, his eyes glimmering.
 
