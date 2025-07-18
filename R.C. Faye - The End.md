@@ -1,3 +1,5 @@
+#stories
+
 🌒 The Truth: The Laughing Cell
 
 The cold air of the Caelan prison was thin and still, humming with the low static of surveillance. Deep beneath the silver towers and crystal pathways of Caelus, [[R.C. Faye - Character Profile| Dr. Faye]] sat cross-legged in his cell—quiet, unmoving.
