@@ -1,11 +1,11 @@
 #characters 
 
-Auren Solivar
 
 Nicknames: The Once-Light, Echo of the Flame, Brightborn, The Crown that Burned
 Age: 13
 Tribe: The Prophets of Veyruhn
 Home: Ember Shrine, on the edge of the Horizon Spires
+Planet: [[Aurelya]]
 Role: The Former Chosen One
 Status: Displaced prodigy; Wandering Seeker
 
