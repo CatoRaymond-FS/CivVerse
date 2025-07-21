@@ -41,7 +41,7 @@ Backstory
 
 Born beneath a red moon and foretold by three generations of seers, Auren was raised to fulfill the “Flame-Born Mandate” — a prophecy whispered across the spires and shrines of the Prophet clans. From the time he could walk, he was trained in rites, taught the sacred stories, and made to believe that the very breath of Aurelya moved through him.
 
-When he was five, a boy named Lior was born under golden skies.
+When he was five, a boy named [[Lioranthros Solen - Character Profile]]was born under golden skies.
 
 There were no questions. No need for proof. The elders stopped reciting Auren’s name. His tattoos dimmed. The ceremonial offerings ceased. He was quietly sent away, kept within the tribe but no longer at its heart.
 
