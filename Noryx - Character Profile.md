@@ -3,6 +3,7 @@
 **Age:** 26  
 **Role:** Guardian of [[Lioranthros Solen - Character Profile]]
 **Planet:** [[Aurelya]]
+#characters 
 
 ---
 
