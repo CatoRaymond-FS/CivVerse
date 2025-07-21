@@ -7,7 +7,7 @@ The first time Auren saw the one who was chosen.
 
 The sky had turned gold again.
 
-It wasn't a storm, not like the one eight years ago — not like the one they whispered about in tents and temple halls, their voices dropping whenever Auren walked past. This one was gentler. The kind of light that filtered through tall branches like it knew it wasn’t supposed to be there. It brushed the rocks with honey, soaked the soil in warmth.
+It wasn't a storm, not like the one four years ago — not like the one they whispered about in tents and temple halls, their voices dropping whenever Auren walked past. This one was gentler. The kind of light that filtered through tall branches like it knew it wasn’t supposed to be there. It brushed the rocks with honey, soaked the soil in warmth.
 
 Auren stepped from behind a cracked pillar, half-buried in vines. He had come to the forest’s edge chasing an echo — not a sound, but a feeling. Like something in the wind remembered his name.
 
