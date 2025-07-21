@@ -2,7 +2,7 @@
 
 Auren Solivar
 
-Nicknames: The Once-Light, Echo of the Flame, Brightborn, He-Who-Was-Almost
+Nicknames: The Once-Light, Echo of the Flame, Brightborn, The Crown that Burned
 Age: 13
 Tribe: The Prophets of Veyruhn
 Home: Ember Shrine, on the edge of the Horizon Spires
