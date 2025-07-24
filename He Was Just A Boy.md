@@ -13,7 +13,7 @@ It wasn't a storm, not like the one four years ago — not like the one they whi
 
 And then he saw him.
 
-A [[, younger than him, barefoot and laughing as he tried to catch floating specks of pollen. The light clung to him like it belonged there. His hair glowed where the sun touched it. His hands were outstretched. Free. Unburdened. A deer watched from the brush, unafraid.
+A [[Lioranthros Solen - Character Profile|boy]], younger than him, barefoot and laughing as he tried to catch floating specks of pollen. The light clung to him like it belonged there. His hair glowed where the sun touched it. His hands were outstretched. Free. Unburdened. A deer watched from the brush, unafraid.
 
 He wasn't guarded. He wasn’t being followed by acolytes. He didn’t wear prophecy, or robes, or expectations stitched in ancient runes.
 
