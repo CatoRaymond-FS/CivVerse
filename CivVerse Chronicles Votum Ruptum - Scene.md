@@ -1,4 +1,4 @@
-
+#stories 
 ## Scene – The Forest, the Ship, and the Boy  
 *The Knight’s Turning Point*
 
@@ -9,8 +9,8 @@
 **Time:** Dusk  
 **Characters:**  
 - **Knight-Pilgrim** (18–19 years old, Viridic Order)  
-- **R.C. Faye** (Age 13, off-world)  
-- **Vere** (Ageless, cryptic)
+- **[[R.C. Faye - Character Profile]]** (Age 13, off-world)  
+- **** (Ageless, cryptic)
 
 ---
 
