@@ -10,7 +10,7 @@
 **Characters:**  
 - **Knight-Pilgrim** (18–19 years old, Viridic Order)  
 - **[[R.C. Faye - Character Profile]]** (Age 13, off-world)  
-- **** (Ageless, cryptic)
+- **[[Vere - Character Profile]]** (Ageless, cryptic)
 
 ---
 

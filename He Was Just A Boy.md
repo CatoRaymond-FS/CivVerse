@@ -9,11 +9,11 @@ The sky had turned gold again.
 
 It wasn't a storm, not like the one four years ago — not like the one they whispered about in tents and temple halls, their voices dropping whenever Auren walked past. This one was gentler. The kind of light that filtered through tall branches like it knew it wasn’t supposed to be there. It brushed the rocks with honey, soaked the soil in warmth.
 
-Auren stepped from behind a cracked pillar, half-buried in vines. He had come to the forest’s edge chasing an echo — not a sound, but a feeling. Like something in the wind remembered his name.
+[[Auren Solivar - Character Profile]] stepped from behind a cracked pillar, half-buried in vines. He had come to the forest’s edge chasing an echo — not a sound, but a feeling. Like something in the wind remembered his name.
 
 And then he saw him.
 
-A boy, younger than him, barefoot and laughing as he tried to catch floating specks of pollen. The light clung to him like it belonged there. His hair glowed where the sun touched it. His hands were outstretched. Free. Unburdened. A deer watched from the brush, unafraid.
+A [[, younger than him, barefoot and laughing as he tried to catch floating specks of pollen. The light clung to him like it belonged there. His hair glowed where the sun touched it. His hands were outstretched. Free. Unburdened. A deer watched from the brush, unafraid.
 
 He wasn't guarded. He wasn’t being followed by acolytes. He didn’t wear prophecy, or robes, or expectations stitched in ancient runes.
 
