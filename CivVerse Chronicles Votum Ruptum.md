@@ -1,4 +1,4 @@
-# 🌑 CivVerse Chronicles: Votum Ruptum  
+
 ### *"A Broken Vow"*  
 
 ## 🌍 The Planet
