@@ -97,15 +97,15 @@ A narrative-driven 2.5D strategy RPG set in the CivVerse universe. The story fol
 
 ## Main Characters
 
-| Name        | Role                          | Notes |
-|-------------|-------------------------------|-------|
-| Lyra        | Mechanic & Mentor             | Taught Jess. Leader figure. |
-| Jess        | Young Engineer                | Hopeful. Believes in escape. |
-| Luna        | Pilot                         | Stubborn, brilliant, loyal. |
-| Rhea        | Scavenger & Welder            | Bonepile prodigy. Heart of fire. |
-| Vere        | Wanderer                      | Timeless. Truth-bearer. |
-| R.C. Faye   | Philosopher/Writer            | Catalyst. Creator of Golden Moments. |
-| Lioranthros | The Honored One               | A quiet light in the dark. |
+| Name        | Role               | Notes                            |
+| ----------- | ------------------ | -------------------------------- |
+| Lyra        | Mechanic & Mentor  | Taught Jess. Leader figure.      |
+| Jess        | Young Engineer     | Hopeful. Believes in escape.     |
+| Luna        | Pilot              | Stubborn, brilliant, loyal.      |
+| Rhea        | Scavenger & Welder | Bonepile prodigy. Heart of fire. |
+| Vere        | Wanderer           | Timeless. Truth-bearer.          |
+| R.C. Faye   | Philosopher/Writer | Catalyst.                        |
+| Lioranthros | The Honored One    | A quiet light in the dark.       |
 
 ---
 
