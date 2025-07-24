@@ -4,7 +4,7 @@
 ## 🌍 The Planet
 
 - **Status**: Mostly unified under a theocratic regime.
-- **Name**: *Undecided*
+- **Name**: Elytherra
 - **Landscape**: Dry, harsh, desert-like but livable.
 - **Climate**: Sun-scorched highlands, windblown plains, few fertile enclaves.
 - **Aesthetic**: Medieval-meets-futuristic; crusader energy with relic-tech.
