@@ -15,7 +15,7 @@ Age: 19
 Gender: Female
 Location: [[Ferrun]]
 Affiliation: Ferrun Local Frame Apprenticeship Program
-Role: CivFrame pilot-in-training (focus: frontline support & terrain navigation)
+Role: CivFrame pilot-in-training (focus: frontline support & repair)
 Status: Active trainee — respected, but often on probation for breaking protocol
 
 
