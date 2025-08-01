@@ -10,6 +10,9 @@
 [[Vere - Character Profile]]
 [[R.C. Faye - Character Profile]]
 [[Lioranthros Solen - Character Profile]]
+[[Noryx - Character Profile]]
+[[Auren Solivar - Character Profile]]
+
 
 
 
