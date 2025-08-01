@@ -12,6 +12,8 @@
 [[Lioranthros Solen - Character Profile]]
 [[Noryx - Character Profile]]
 [[Auren Solivar - Character Profile]]
+[[The Knight - Character Profile]]
+
 
 
 
