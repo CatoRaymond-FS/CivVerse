@@ -20,7 +20,9 @@ Centralized government is nonexistent or failed, and justice is delivered by the
 
 Life here is hard and unsparing; reputation, marksmanship, and grit define your worth.
 
-Notable Lo
+Notable Locations
+
+[[Havensreach]] - 
 
 
 ⚙️ Technology & Culture
