@@ -1,41 +1,61 @@
 #planets 
-“A Broken Vow” — The Planet of the Silent Oath
+
+Also known as: The Oathed World, The Stone of Silence, The Crown Without Light
+Type: Inhabited Theocratic Planet
+Orbit: Fifth from a white giant star in a sparse, militarized system
+Affiliation: The Viridic Order
+Theme Song: Votum Ruptum
 
 
 ---
 
-🧭 Overview
+🕯️ Overview
 
-Status: Largely unified under a theocratic regime.
+Elytherra is a solemn, sun-scoured world where faith and silence rule. Its stone cities rise like sermons from the dust, and its people bow not out of fear—but because they were never taught to stand.
 
-Biome: Arid highlands, desert plateaus, wind-scoured plains.
+The planet lives beneath the weight of a vow made generations ago — a sacred silence, born of obedience, unity, and struggle. The Viridic Order claims the world was saved by a man named Virgil, whose teachings became law and whose disappearance became doctrine.
 
-Climate: Dry, hot, spiritually severe. Fertile land is sacred and protected.
-
-Aesthetic: Crusader-chic meets decaying relic-tech. Ornate armor, sandstone citadels, solar-forged relics.
-
+Now, the world waits — not for salvation, but for anyone brave enough to question the silence.
 
 
 ---
 
-🏛️ Society & Rule
+🛡️ Planetary Traits
 
-The Viridic Order
+🗡 The Woundplains – Barren valleys where ancient battles against “heresy” were fought. Wind howls through broken blades left standing like headstones.
 
-A theocratic military empire rooted in faith, discipline, and control.
+🕍 Citadel-Cities – Towering walled cities ruled by clergy and knights. Homes of the Order’s elite. Law is scripture; doubt is crime.
 
-Founder: Virgil the Ascended, a messianic conqueror who vanished at the height of power.
+⛪ The Crowned Vaults – Hidden chambers said to contain Virgil’s original teachings, sealed from the public. Few are allowed inside.
 
-Belief System:
-“Salvation comes through obedience and struggle.”
-Heresy is the highest sin — to doubt is to betray humanity’s only hope.
+🛰 The Quiet Sky – Space traffic is tightly monitored. Only the Order’s port sees activity. Rumors of the stars are muffled before they echo.
 
 
-🔒 Control Mechanisms:
+---
 
-The Spaceport: Only connection to the stars, completely locked down by the Order.
+🏛️ Culture & Rule
 
-Scripture & Surveillance: Ancient texts and modern tech used to keep control over faith, knowledge, and thought.
+✝️ The Viridic Order
+
+Founded By: Virgil, the Savior-Emperor who “ascended” after uniting the planet.
+
+Doctrine: “Salvation comes through obedience and struggle.”
+
+Structure:
+
+High Clerics: Interpret scripture, control truth.
+
+General-Inquisitors: Lead purges, enforce silence.
+
+The Knights: Martial enforcers of faith.
+
+
+Technological Stance:
+
+Advanced tech exists but is sacred.
+
+Off-world knowledge is forbidden, except at the Order’s discretion.
+
 
 
 
@@ -43,107 +63,114 @@ Scripture & Surveillance: Ancient texts and modern tech used to keep control ove
 
 ⚔️ The Knights of Elytherra
 
-Sworn warriors of the Viridic Order.
+Training: Indoctrinated from youth. Swordsmanship and faith are taught as one.
 
-Attire: Sun-blasted cloaks, energy-forged blades, armor embossed with religious glyphs.
+Attire: Relic-tech armor with shock-dampening plating, solar-powered servos, and energy-forged blades.
 
-Training: Raised from childhood in Citadel Monasteries.
+Social Class: Live in privilege. Revered and feared.
 
-Purpose:
-
-Enforce the doctrine.
-
-Purge heresy.
-
-Undertake sacred pilgrimages.
-
-
-Status: Revered, feared, and increasingly conflicted.
+Core Vow:
+“To speak only what is true. To strike only in the name of salvation. To die with the vow unbroken.”
 
 
 
 ---
 
-🔥 The Heresy
+📖 Heresy & The Prophecy
 
-The Prophecy:
-“A child born under a bright sky shall bring peace, and no sword shall strike near him.”
+The Forbidden Rumor:
+“A child born under a bright sky shall bring peace to all who come near him.”
 
-This contradicts Virgil’s doctrine of salvation through struggle.
+Why It’s Dangerous:
 
-The Order’s Response:
+Contradicts Virgil’s final teachings.
 
-Ruthless suppression.
-
-Execution of any who speak of the child.
-
-Rewriting of scripture to erase the prophecy.
+Suggests salvation might come again — or from outside the Order.
 
 
-The Underground Believers:
+Order’s Response:
 
-Called the Unshackled.
+Suppression.
 
-Seek to spread word of the boy and fracture the Order’s control.
+Execution without trial.
+
+Propaganda blaming outsiders.
 
 
+Cultural Impact:
 
+Whispers in villages.
 
----
+Murmurs among young knights.
 
-🌟 The Knight’s Journey
-
-The Protagonist:
-A young knight, trained in faith, now caught between loyalty and truth.
-His name? TBD — but he is The Last to Take the Oath.
-
-Inciting Moment:
-A quiet moment during a cleansing mission — a heretic whispers, “The boy is real.”
-
-Pilgrimage Arc:
-
-Begins with devotion.
-
-Encounters the broken, the outcast, the silenced.
-
-Gradual realization that the prophecy might be real.
-
-The silent vow he swore begins to crack.
+The beginning of doubt.
 
 
 
 
 ---
 
-🏙️ Cities & Culture
+🚶 The Knight’s Journey
 
-Citadel Strongholds: Towering religious-military cities carved into mountains or built on old world ruins.
+Protagonist: A young knight, recently sworn, but not yet broken.
 
-Outer Villages: Dusty settlements under watch, filled with quiet devotion and whispered prayers.
+Name: TBD
 
-Art & Architecture: Relic mosaics, stained-glass solar collectors, statues of Virgil’s “ascension.”
+Call to Action:
+On a pilgrimage, he finds a downed off-world ship deep in the outer forest.
 
-Law & Order:
 
-Heresy = death.
+Inside is a 13-year-old [[R.C. Faye - Character Profile]], writing strange poems.
 
-Faith = survival.
+This meeting plants the seed of rebellion.
 
-All oaths are binding — until they break.
 
+---
+
+🌆 Cities & Life
+
+🏰 Citadel Monasteries – Stone-etched fortresses of learning and ritual. Libraries of censored texts. Training grounds for knights.
+
+🏜 Outer Settlements – Humble villages built around water wells and chapel-towers. Life revolves around prayer, ration, and ritual labor.
+
+🕯 Law & Justice –
+
+Heresy is death.
+
+Dissent is unthinkable.
+
+To speak against the Order is to vanish.
 
 
 
 ---
 
-🛑 Potential Final Boss: The Silent Oath
+🔥 Final Boss – The Silent Oath
 
-> “A sword that remembers every vow… and all who broke them.”
+> “The vow never broke. You did.”
 
 
 
-A physical embodiment of every broken promise and corrupted prayer — possibly a former High Inquisitor bound to ancient tech.
+A manifestation of the protagonist’s own faith taken too far.
 
-Covered in fragments of shattered relics and forgotten names.
+A towering, silver knight — faceless, voiceless, flawless.
 
-Speaks in whispers that echo the Knight’s own past doubts.
+Wields the Crownblade, forged from the Knight’s forgotten promises.
+
+Final choice: Strike and destroy the vow… or kneel and transcend it.
+
+
+
+---
+
+🌒 Themes
+
+Obedience vs Truth
+
+Faith as Weapon
+
+The Cost of Silence
+
+Rebellion as Pilgrimage
+
+Oaths that Outlive Their Purpose
