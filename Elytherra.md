@@ -120,7 +120,7 @@ Call to Action:
 On a pilgrimage, he finds a downed off-world ship deep in the outer forest.
 
 
-Inside is a 13-year-old [[R.C. Faye - Character Profile]], writing strange poems.
+Inside is a 13-year-old [[R.C. Faye - Character Profile|R. C. Faye]], writing strange poems.
 
 This meeting plants the seed of rebellion.
 
