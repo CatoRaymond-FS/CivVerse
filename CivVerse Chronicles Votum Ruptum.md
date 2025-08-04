@@ -47,7 +47,7 @@
 
 ## 🌟 The Knight’s Pilgrimage
 
-- **Protagonist**: A young knight (name TBD), loyal but questioning.
+- **Protagonist**: A young knight, loyal but questioning.
 - **Journey**: Begins as a pilgrimage to learn the truth; ends as the spark of rebellion.
 - **Motivation**: Curiosity, guilt, hope — he must see the boy for himself.
 
@@ -105,9 +105,3 @@
 - **Gameplay Intent**: Both games can be played in any order, revealing deeper truths when experienced together.
 
 ---
-
-## 📌 To Be Named
-
-- The **planet's name**
-- The **main knight’s name**
-- City and location names (citadel, holy site, etc.)
