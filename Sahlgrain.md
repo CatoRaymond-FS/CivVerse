@@ -22,7 +22,7 @@ Life here is hard and unsparing; reputation, marksmanship, and grit define your 
 
 Notable Locations
 
-[[Havensreach]] - 
+[[Havensreach]] - Once a bustling nexus of trade and culture, Havensreach sits nestled along the banks of the silver-winding Lysar River. Its weathered stone docks and creaking wooden warehouses whisper tales of caravans and ships that once brought goods, ideas, and travelers from distant lands.
 
 
 ⚙️ Technology & Culture
