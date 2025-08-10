@@ -89,10 +89,10 @@ Believes seeing the prophesied child will either restore or shatter his soul
 Phase	Key Events
 
 Pilgrimage:	Sent to investigate whispers of heresy far from the citadel. Discovers the forbidden prophecy.
-Encounter	Finds an unauthorized off-world ship in the woods. Meets a young R.C. Faye — and hears his poem.
-Turning Point	Witnesses Vere arrive and lead R.C. away. Watches silently. Begins to question everything.
-Rebellion	Chooses not to report the encounter. Instead, sets out to learn the truth of the prophecy himself.
-Final Trial	Faces the Silent Oath, a remnant of what he was supposed to become. His final decision: obey or break the vow.
+Encounter:	Finds an unauthorized off-world ship in the woods. Meets a young R.C. Faye — and hears his poem.
+Turning Point:	Witnesses Vere arrive and lead R.C. away. Watches silently. Begins to question everything.
+Rebellion: Chooses not to report the encounter. Instead, sets out to learn the truth of the prophecy himself.
+Final Trial: Faces the Silent Oath, a remnant of what he was supposed to become. His final decision: obey or break the vow.
 
 
 
