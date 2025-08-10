@@ -13,6 +13,7 @@
 [[Noryx - Character Profile]]
 [[Auren Solivar - Character Profile]]
 [[The Knight - Character Profile]]
+[[Mercy Waters - Character Profile]]
 
 
 
